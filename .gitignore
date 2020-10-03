@@ -6,6 +6,8 @@ dist
 coverage.xml
 
 .idea/
+.vscode/
+Pipfile.lock
 
 
 # caches
