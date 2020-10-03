@@ -15,7 +15,7 @@ autopep8 = "~=1.4"
 
 [packages]
 pipfile = "~=0.0"
-black = {markers = "python_version>='3.6'",version = "==19.10b0"}
+black = {markers = "python_version>='3.6'",version = "~=19.10b0"}
 colorama = "~=0.4"
 packaging = "~=20.0"
 requirementslib = "~=1.5"

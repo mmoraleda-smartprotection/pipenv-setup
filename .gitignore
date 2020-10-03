@@ -5,6 +5,11 @@ dist
 .coverage
 coverage.xml
 
+.idea/
+.vscode/
+Pipfile.lock
+
+
 # caches
 .mypy_cache/
 .pytest_cache
